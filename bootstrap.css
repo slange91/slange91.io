@@ -1,0 +1,26 @@
+body {
+	background-image: url(file:///Users/scottlange/Desktop/website%20stuff/Images/Cactus1.jpg);
+	background-size: cover;
+
+}
+.lightblue{
+	display:flex;
+	justify-content: center;
+	color: white;
+	padding-top: 5px;
+	background-color: lightblue;
+}
+h2{
+	background-color: white;
+	color: black;
+	display: flex;
+	justify-content: center;
+}
+h1 {
+	font-size: 75px;
+	background-color: lightblue;
+}
+.btn-primary {
+	display:flex;
+	justify-content: center;
+}
